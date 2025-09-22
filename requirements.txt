@@ -1,0 +1,10 @@
+streamlit
+requests
+fastapi
+uvicorn
+easyocr
+torch
+torchvision
+transformers
+Pillow
+ollama

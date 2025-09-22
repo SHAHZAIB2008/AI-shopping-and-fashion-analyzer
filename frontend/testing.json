@@ -1,0 +1,40 @@
+{
+    "status": "success",
+    "search_term": "kurti",
+    "brand_name": "Nishat Linen",
+    "products_found": 4,
+    "products": [
+        {
+            "name": "Embroidered Kurta - PE25-503",
+            "brand": "Nishat Linen",
+            "price": "4218.50",
+            "image": "https://cdn.shopify.com/s/files/1/0534/2065/4791/files/PE25-503-_3.jpg?v=1747381311",
+            "link": "https://nishatlinen.com/products/pe25-503?_pos=1&_psq=kurti&_ss=e&_v=1.0",
+            "description": "Fashion item from Nishat Linen"
+        },
+        {
+            "name": "Basic Kurta - PE25-21",
+            "brand": "Nishat Linen",
+            "price": "2995.00",
+            "image": "https://cdn.shopify.com/s/files/1/0534/2065/4791/files/PE25-21-_3_1.jpg?v=1747381986",
+            "link": "https://nishatlinen.com/products/pe25-21?_pos=2&_psq=kurti&_ss=e&_v=1.0",
+            "description": "Fashion item from Nishat Linen"
+        },
+        {
+            "name": "Printed Kurta - PS25-271",
+            "brand": "Nishat Linen",
+            "price": "4990.00",
+            "image": "https://cdn.shopify.com/s/files/1/0534/2065/4791/files/PS25-271-_5.jpg?v=1757484950",
+            "link": "https://nishatlinen.com/products/ps25-271?_pos=3&_psq=kurti&_ss=e&_v=1.0",
+            "description": "Fashion item from Nishat Linen"
+        },
+        {
+            "name": "Printed Embroidered Kurta - PS25-46",
+            "brand": "Nishat Linen",
+            "price": "3095.00",
+            "image": "https://cdn.shopify.com/s/files/1/0534/2065/4791/files/PS25-46-_2_80630565-19c2-4ff3-8477-ee80a4b78044.jpg?v=1747382487",
+            "link": "https://nishatlinen.com/products/ps25-46?_pos=4&_psq=kurti&_ss=e&_v=1.0",
+            "description": "Fashion item from Nishat Linen"
+        }
+    ]
+}

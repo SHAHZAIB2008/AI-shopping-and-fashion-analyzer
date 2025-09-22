@@ -1,0 +1,14 @@
+Analyze this image comprehensively. Describe:
+1. What objects, people, or subjects are present
+2. The setting, location, and context
+3. Colors, lighting, and composition
+4. Mood, style, and any notable details
+5. Technical aspects (if applicable)
+6. If clothing/fashion items are visible, describe them in detail including:
+   - Type of garment (kurti, shirt, dress, dupatta, etc.)
+   - Colors and patterns
+   - Style and cut
+   - Fabric type if identifiable
+   - Any fashion-related accessories
+
+Be detailed and thorough as this analysis will be used to answer follow-up questions. Pay special attention to any Pakistani or South Asian fashion elements."""
