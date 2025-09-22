@@ -98,15 +98,4 @@ Access app at 👉 [http://localhost:8501](http://localhost:8501)
 * [BeautifulSoup4](https://pypi.org/project/beautifulsoup4/) – Scraping fashion brand websites
 * \[Ollama / LLM Integration] – For AI responses
 
----
 
-## ✨ Future Improvements
-
-* Add more brands (Sana Safinaz, Maria B, Al Karam, etc.).
-* Multi-language support (English + Roman Urdu).
-* Deploy to cloud (Render/Heroku/Streamlit Cloud).
-* Add offline mode with local AI model.
-  
-## 👨‍💻 Author
-
-Developed by ** Muhammad Shahzaib Nazir**
